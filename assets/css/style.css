@@ -474,6 +474,11 @@ h6 {
     display: block;
 }
 
+@media (max-width: 380px) {
+    #res-top-kontak {
+        display: none !important;
+    }
+}
 
 /*--------------------------------------------------------------
 # Hero Section
